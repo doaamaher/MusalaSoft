@@ -1,0 +1,6 @@
+//List<WebElement> jobsLinks = driver.findElements(By.xpath("//*[@class='card-jobsHot__link']")); 
+		//Iterator<WebElement> itr = jobsLinks.iterator();
+		// driver.findElements(By.tagName("h2"))
+
+		//String job = driver.findElement(By.tagName("h2")).getAttribute("data-alt");
+		//String jobURL = driver.findElement(By.tagName("a")).getAttribute("href");
